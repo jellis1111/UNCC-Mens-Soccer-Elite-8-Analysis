@@ -13,7 +13,7 @@ The primary objective was to quantitatively benchmark UNCC's player performance 
 
 The most critical file in this repository is the main analysis sheet: **`Offseason Project_metrics.xlsx - Profiles.csv`**.
 
-This sheet provides the direct comparison by calculating the **Difference** between the Elite Eight average metric and the corresponding UNCC player metric, broken down by position:
+This sheet provides the direct comparison by calculating the **difference** between the Elite Eight average metric and the corresponding UNCC player metric, broken down by position:
 
 * **Striker**
 * **Winger**
