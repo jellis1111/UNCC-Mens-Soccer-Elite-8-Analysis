@@ -42,4 +42,4 @@ The repository contains the final summary sheet alongside the raw, detailed calc
 
 ## 🔗 Access
 
-To view the data, simply click on the file in the repository. The data is presented in a CSV format for easy viewing and download.
+To view the data, simply click on the file link in the repository. The data can then be easily downloaded and viewed.
