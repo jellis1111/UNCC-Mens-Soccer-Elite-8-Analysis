@@ -15,8 +15,10 @@ The most critical file in this repository is the main analysis sheet: **`Offseas
 
 This sheet provides the direct comparison by calculating the **difference** between the Elite Eight average metric and the corresponding UNCC player metric, broken down by position:
 
-* **Striker**
-* **Winger**
+* **Strikers**
+* **Wingers**
+* **Attacking Midfielders**
+* **Center/Defensive Midfielders**
 * **Center Backs**
 * **Fullbacks**
 * **Goalkeeper**
